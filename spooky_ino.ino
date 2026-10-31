@@ -4,7 +4,7 @@
 #include <ESP8266WebServer.h>
 #include <EEPROM.h> 
 #include <WiFiClient.h>
-#include "credentials.h"
+#include "wifiSetup.h"
 #include <PubSubClient.h>
 #include <ArduinoJson.h>
 #include <time.h>
